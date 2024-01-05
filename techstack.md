@@ -32,7 +32,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [hamzatrq/redis-server](https://github.com/hamzatrq/redis-server)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|10<br/>Tools used|01/02/24 <br/>Report generated|
+|11<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -126,14 +126,15 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (2)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (3)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (2)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (3)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
 |[express](https://www.npmjs.com/express)|v4.17.1|05/16/21|Avaer Kazmer |MIT|[CVE-2022-24999](https://github.com/advisories/GHSA-hrpp-h998-j3pp) (High)|
 |[node-fetch](https://www.npmjs.com/node-fetch)|v2.6.1|11/28/21|Hamza Tariq |MIT|[CVE-2022-0235](https://github.com/advisories/GHSA-r683-j2x4-v87g) (High)|
+|[web3](https://www.npmjs.com/web3)|v1.3.5|04/14/21|Avaer Kazmer |LGPL-3.0|[](https://github.com/advisories/GHSA-27v7-qhfv-rqq8) (Low)|
 
 <br/>
 <div align='center'>
